@@ -4,7 +4,8 @@
 #1. 'Anonymous' is also deserving to be in the hacker legends list. Add him in to the hacker legends list and print your results.
 
 hacker_legends = ['LulzSec', 'Gary McKinnon', 'Adrian Lamo', 'Jonathan James', 'Kevin Poulsen']
-
+hacker_legends.append('Anonymous')
+print(hacker_legends)
 #insert (index, element) adds a new element at any position in your list.
 #2. You just created a networking study list and forgot to add in 'SSH'. Please add that into the 3rd position in the networking list and print your results.
 
